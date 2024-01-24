@@ -1,0 +1,26 @@
+﻿﻿
+Button {
+    background-color: #22222a;
+    color: #c7c8dc;
+    font-size: large;
+    font-family: Arial Black;
+}
+
+
+
+
+.BotoAc {
+    background-color: #62385e;
+    font-size: large;
+    font-family: Arial Black;
+}
+
+.Operaciones {
+    background-color: #414659;  
+}
+
+.Igual {
+    background-color: #304280;
+    font-size: large;
+    font-family: Arial Black;
+}
